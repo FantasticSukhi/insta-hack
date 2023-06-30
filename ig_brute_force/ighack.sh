@@ -1,10 +1,10 @@
 #bin/bash
-#script By HackerSM9
+#script By FantasticSukhi
 #The real creator of core files is not us so the credits 
 #colours
 #####3#3#
 check(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/ig_brute_force/master/update.v3.2 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/FantasticSukhi/ig_brute_force/master/update.v3.2 2>/dev/null; then
 cd ig_brute_force/core
 echo "ig" > update.txt
 else
@@ -76,9 +76,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By MAMBA HACKS << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  TELEGRAM Channel : \e[1;96m @MAMBA_PRO \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 baner1(){
@@ -103,9 +103,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By MAMBA HACKS << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Telegram b Channel : \e[1;96m MAMBA HACKS \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 echo 
@@ -178,7 +178,7 @@ echo -en "\e[34m#~#SELECT OPTION: \e[92m"
 read optz
 if [ "$optz" = "1" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage 2>/dev/null
+am start -a android.intent.action.VIEW -d https://github.com/FantasticSukhi 2>/dev/null
 more
 clear
 elif [ "$optz" = "2" ];
@@ -226,7 +226,7 @@ date=$(date +%A-%B/%d/%Y)
 wom=$(whoami)
 echo -e "                                                                                                  
       ╭━━━━━━━━━━━━━╮
-      ┃━━━━$blu●$grn━══━━━━━┃| $grn$cod Date=$o" $date"$grn
+      ┃━━$blu●$grn━━┃| $grn$cod Date=$o" $date"$grn
       ┃SUBSCRIBE    ┃| $grn$cod CPU=$o" $cpu"$grn
       ┃LIKE         ┃| $grn$cod ARCHITECTURE=$o" $arc"$grn
       ┃SHARE        ┃| $grn$cod STORAGE=$o" $AVL"$grn
@@ -235,15 +235,15 @@ echo -e "
       ┃ USING TOOLS ┃| $grn$cod KERNEL=$o" $krn"$grn
       ┃             ┃| $grn$cod IPV4=$o" $ip"$grn
       ┃             ┃| $grn$cod UPTIME=$o" $upt"$grn
-      ┃  ( ͡❛ ͜ʖ ͡❛)   ┃| $grn$cod SHELL=$o" $shl"$grn
+      ┃  ( ͡❛ ͜ʖ ͡❛)    ┃| $grn$cod SHELL=$o" $shl"$grn
       ┃             ┃| $grn$cod EGL=$o" $egl"$grn
-      ┃ Noob Hackers┃| $grn$cod HARDWARE=$o" $hardw"$grn
+      ┃ Mamba Hacks ┃| $grn$cod HARDWARE=$o" $hardw"$grn
       ┃━━━━━ ○ ━━━━━┃| $grn$cod MODEL=$o" $modl"$grn
       ╰━━━━━━━━━━━━━╯
 "
 center "^CHECKING DONE^"
-echo -e "\e[93m                     Subscribe On Youtube\e[92m"
-center "<NOOB HACLERS>"
+echo -e "\e[93m                     Telegram Channel\e[92m"
+center "<MAMBA HACKS>"
 sleep 20.0
 more
 }
@@ -271,7 +271,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW -d https://github.com/FantasticSukhi 2>/dev/null
 clear
 baner1
 menu1
@@ -304,14 +304,14 @@ echo -e '\e[91m
                  ─▐─█────█─▌─
                  ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
-echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10
+echo -e "\e[93m                  CALL ME \e[92mMAMBA" | pv -qL 10
+echo -e "\e[93m             IAM FROM \e[92mMAMBA HACKS" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
 echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10
-echo -e "\e[93m        PRACTICAL VIDEOS:\e[92m www.noobhacktube.com\e[0m" | pv -qL 10
+echo -e "\e[93m        MY WEBSITE:\e[92m https://github.com/FantasticSukhi\e[0m" | pv -qL 10
+echo -e "\e[93m        PRACTICAL VIDEOS:\e[92m https://t.me/MAMBA_PRO\e[0m" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 8.0
 baner1
@@ -356,7 +356,7 @@ clear
 help
 elif [ "$opts" = "4" ];                             
 then
-am start -a android.intent.action.VIEW -d https://github.com/HackerSM9 2>/dev/null
+am start -a android.intent.action.VIEW -d https://github.com/FantasticSukhi 2>/dev/null
 clear
 help
 elif [ "$opts" = "5" ];
