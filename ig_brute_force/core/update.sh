@@ -1,7 +1,7 @@
 
 cd $HOME/insta-hack/ig_brute_force/core/                                                                                     
 update(){                                                                                                             
-if wget --spider https://raw.githubusercontent.com/noob-hackers/ig_brute_force/master/update.v3.2 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/FantasticSukhi/ig_brute_force/master/update.v3.2 2>/dev/null; then
 cd $HOME/insta-hack/ig_brute_force/core
 rm *.txt
 echo "ig" > update.txt
@@ -80,7 +80,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/ig_brute_force 2> /dev/null; do 
+while git clone https://github.com/FantasticSukhi/ig_brute_force 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
