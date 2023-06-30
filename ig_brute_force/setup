@@ -7,16 +7,19 @@ center() {
 grn="\e[92m"
 cod="\e[93m"
 echo -e '\e[92m
-               ╦╔═╗  ╦ ╦╔═╗╔═╗╦╔═
-               ║║ ╦──╠═╣╠═╣║  ╠╩╗
-               ╩╚═╝  ╩ ╩╩ ╩╚═╝╩ ╩'
+╔═╗╔═╦═══╦═╗╔═╦══╗╔═══╗╔╗─╔╦═══╦═══╦╗╔═╦═══╗
+║║╚╝║║╔═╗║║╚╝║║╔╗║║╔═╗║║║─║║╔═╗║╔═╗║║║╔╣╔═╗║
+║╔╗╔╗║║─║║╔╗╔╗║╚╝╚╣║─║║║╚═╝║║─║║║─╚╣╚╝╝║╚══╗
+║║║║║║╚═╝║║║║║║╔═╗║╚═╝║║╔═╗║╚═╝║║─╔╣╔╗║╚══╗║
+║║║║║║╔═╗║║║║║║╚═╝║╔═╗║║║─║║╔═╗║╚═╝║║║╚╣╚═╝║
+╚╝╚╝╚╩╝─╚╩╝╚╝╚╩═══╩╝─╚╝╚╝─╚╩╝─╚╩═══╩╝╚═╩═══╝
 echo -e "\e[92m"
 center "SETUP PROCESS"
 echo -e "
        $grn-----------------------------------$grn
-      |$grn FOLLLOW:$cod HackerSM9 $grn |$grn
-      |$grn GitHub:$cod https://github.com/HackerSM9        $grn |$grn
-      |$grn G-DEV:$cod https://g.dev/Hackersm9       $grn |$grn
+      |$grn Tg Username:$cod MAMBA_RETURNS $grn |$grn
+      |$grn GitHub:$cod https://github.com/FantasticSukhi        $grn |$grn
+      |$grn G-DEV:$cod https://g.dev/FANTASTICSUKHI       $grn |$grn
        $grn-----------------------------------$grn
 "
 center "INSTALLATION"
